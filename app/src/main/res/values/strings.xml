@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Placapp</string>
+
+    <string name="label_title_home">Clubs</string>
+    <string name="label_home">Home</string>
+    <string name="label_away">Visitante</string>
+    <string name="label_start_game">Start</string>
+    <string name="club_home">Ex.: Real Madrid</string>
+    <string name="club_away">Ex.: Barcelona</string>
+    <string name="btn_goal">Goal</string>
+</resources>

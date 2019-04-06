@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_home">Time da Casa</string>
+    <string name="label_away">Time Visitante</string>
+    <string name="label_start_game">Começar</string>
+    <string name="label_title_home">Clubes</string>
+    <string name="club_home">Ex.: Corinthians</string>
+    <string name="club_away">Ex.: Palmeiras</string>
+    <string name="btn_goal">Gol</string>
+</resources>
